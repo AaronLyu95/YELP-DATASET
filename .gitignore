@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Folder
+DATA/
+
+# Scratch
+scratch.ipynb
